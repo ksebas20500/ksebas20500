@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Kevin Medina👋
 
-<!--
-**ksebas20500/ksebas20500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+* 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad de Pamplona**, Colombia.
+* 💻 Apasionado por el desarrollo de software y la estructuración eficiente de bases de datos relacionales.
+* 🐧 Entusiasta del open-source y usuario diario de **Arch Linux** (mi terminal de confianza es Kitty con Zsh).
+* 🚀 Construyendo proyectos para resolver problemas reales, como mi reciente aplicación web de gestión.
+* 📫 Contáctame: [kevinsebas5020@gmail.com](mailto:tu-email@ejemplo.com) | [LinkedIn](www.linkedin.com/in/kevin-medina-93840736b)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+**Lenguajes y Bases de Datos** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Herramientas y SO** ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash/Zsh](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksebas20500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de ksebas20500" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksebas20500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes principales" width="48%" />
+</div>
