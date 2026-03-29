@@ -23,7 +23,6 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksebas20500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de ksebas20500" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksebas20500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes principales" width="48%" />
-</div>
+[![Estadísticas de ksebas20500](https://github-readme-stats.vercel.app/api?username=ksebas20500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ksebas20500)
+
+[![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=ksebas20500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ksebas20500)
